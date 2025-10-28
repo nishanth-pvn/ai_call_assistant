@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+boto3
+openpyxl
+Pillow
+requests
+openai-whisper
+audio-recorder-streamlit
+soundfile
+torch
+pyttsx3
