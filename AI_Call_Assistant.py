@@ -492,11 +492,11 @@ Rules:
 def get_bi_config():
     """Return BI LLM configuration."""
     return {
-        'client_id': "b5f068d1-ff2d-4463-b7c4-a2b56bee532c",
-        'client_secret': "b88f4db2-62ef-4405-bc19-ed15a5d4e4e4", 
+        'client_id': "074c933c-112f-4acf-a6a5-3199e4c78eea",
+        'client_secret': "ff7c6a75-1336-4594-b74e-f26065b87d4e", 
         'model_name': "gpt-4.1",
         'token_url': "https://api-gw.boehringer-ingelheim.com:443/api/oauth/token",
-        'api_url': "https://api-gw.boehringer-ingelheim.com:443/llm-api/",
+        'api_url': "https://api-gw.boehringer-ingelheim.com:443/apollo/llm-api/",
         'temperature': 0.2,
         'max_tokens': 10000,
         'completions_path': 'chat/completions'
